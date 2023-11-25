@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/KucherPy/KucherPy/blob/main/name.svg" alt="Kucher" />
 </h1>
-<img src="https://media0.giphy.com/media/xT9KVwXbZ2s5clFf8c/giphy.gif?cid=ecf05e47wtiy1a719nkp41f44x0ejxocwtza3ruw0k0ot4r0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GhostFace"/>
+<img src="https://media3.giphy.com/media/eLdZeAaOIY0N021kJp/giphy.gif?cid=ecf05e47fj1o8ssl8is5g7e6bwl1zf4bz5i3ewgma779x51o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GhostFace" height = 320px/>
 
 ## Hey! 👋
 I'm Kucher, a 20 years old RUSSIAN OKUPANT. <img src="https://cdn.icon-icons.com/icons2/97/PNG/256/russia_flags_flag_17058.png" alt="Steam" width=20px height=20px/> 
@@ -10,7 +10,8 @@ I'm Kucher, a 20 years old RUSSIAN OKUPANT. <img src="https://cdn.icon-icons.com
 
 - <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" alt="Telegram" width=20px height=20px/> [Telegram](https://t.me/ToxicKucher)
 
-+ a lot more ;)
+<img src="https://media3.giphy.com/media/cqwHhVm0BAyyc/giphy.gif?cid=ecf05e47htpfa0j7m0pjymse5k33xnfgg5ljg7o6zjl8zp9h&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Slipknot" height = 320px/>
+  
 
 ## Skills
 - 👨‍💻 Python, Java, SwiProlog, C#, C++
