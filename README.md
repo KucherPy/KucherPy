@@ -7,7 +7,7 @@ I'm Kucher, a 20 years old web developer from Hungary.
 
 - [Steam](https://steamcommunity.com/profiles/76561198122374850/)
 
-- [Telegram](t.me/@ToxicKucher)
+- [Telegram](https://t.me/@ToxicKucher)
 
 - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
