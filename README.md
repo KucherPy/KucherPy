@@ -1,37 +1,28 @@
-hi, i'm [Kucher](https://abhishknads.me/), data analyst.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/kucher/kucher/master/name.svg" alt="Kucher" />
+</h1>
 
+## Hey! 👋
+I'm Marton, a 20 years old web developer from Hungary.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 ask me about anything, i am happy to help;
+- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
+- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-```txt
-TypeScript   13 hrs 38 mins  ███████████████████████░░   91.98 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-```
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-<!--END_SECTION:waka-->
++ a lot more ;)
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](./) on Discord
