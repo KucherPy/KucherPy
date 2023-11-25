@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/kucher/kucher/master/name.svg" alt="Kucher" />
+  <img src="https://github.com/KucherPy/KucherPy/blob/main/name.svg" alt="Kucher" />
 </h1>
 
 ## Hey! 👋
