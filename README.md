@@ -4,7 +4,7 @@
 <img src="https://media3.giphy.com/media/eLdZeAaOIY0N021kJp/giphy.gif?cid=ecf05e47fj1o8ssl8is5g7e6bwl1zf4bz5i3ewgma779x51o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GhostFace" height = 320px/>
 
 ## Hey! 👋
-I'm Kucher, a 20 years old RUSSIAN OKUPANT. <img src="https://cdn.icon-icons.com/icons2/97/PNG/256/russia_flags_flag_17058.png" alt="Steam" width=20px height=20px/> 
+I'm Kucher, a 20 years old RUSSIAN OCUPANT. <img src="https://cdn.icon-icons.com/icons2/97/PNG/256/russia_flags_flag_17058.png" alt="Steam" width=20px height=20px/> 
 
 - <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" alt="Steam" width=20px height=20px/> [Steam](https://steamcommunity.com/profiles/76561198122374850/)
 
